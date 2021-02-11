@@ -7,8 +7,8 @@
        <img src="https://img.shields.io/discord/809528329337962516?label=discord&logo=discord" />
      </a>
 - 😄 Pronouns: He/His
-- 📌 Based on Brazil 🇧🇷
-- ⚡ Fun fact: I can speak 3 languages, but I'm good at none of them
+- 📌 Based on Brazil :brazil:
+- ⚡ Fun fact: I can speak 3 languages, but I'm bad at all of them
 
 <p align="center">
   <a title="Buy me a coffee" href="https://www.buymeacoffee.com/bdlukaa">
@@ -40,6 +40,7 @@ A plugin for flutter to help you implement admob easily on your mobile app. It s
 - [x] Native
 - [x] Rewarded
 
+It's easy for new devs and complete for the advanced ones.\
 For more information, head over to the [documentation](https://github.com/bdlukaa/native_admob_flutter/wiki)
 
 ### Color picker app
@@ -55,3 +56,37 @@ For more information, head over to the [documentation](https://github.com/bdluka
 
 A color picker app to help you to find the color that best fit your design.\
 Head over to [the project](https://github.com/bdlukaa/color-picker) for a brief showcase... or not that brief
+
+### Unities Helper
+
+<p align="center" >
+  <a title="Pub" href="https://pub.dartlang.org/packages/unities_helper" >
+    <img src="https://img.shields.io/pub/v/unities_helper.svg?style=popout&include_prereleases" />
+  </a>
+  <a title="Github License">
+    <img src="https://img.shields.io/github/license/bdlukaa/color-picker" />
+  </a>
+  <a title="PRs are welcome">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+  </a>
+<div>
+
+So, are you struggling to convert unities? Yeah, me neither, but if want, check out [unities_helper](https://github.com/bdlukaa/unities_helper). It has a simple syntax and it's very complete package, allowing you to do the following conversions:
+
+- [x] Area
+- [x] Color Spaces
+- [x] Data transfer rate
+- [x] Energy
+- [x] Frequency
+- [x] Fuel Economy
+- [x] Hexadecimal
+- [x] Length
+- [x] Weight
+- [x] Plane angle °
+- [x] Pressure
+- [x] Speed
+- [x] Temperature
+- [x] Time
+- [x] Volume
+
+Fore more information, head over to [pub.dev](
