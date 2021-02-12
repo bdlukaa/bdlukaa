@@ -18,7 +18,7 @@
 
 ## Some of my projects:
 
-### native_admob_flutter
+### [native_admob_flutter](https://github.com/bdlukaa/native_admob_flutter)
 
 <p align="center" >
   <a title="Pub" href="https://pub.dartlang.org/packages/native_admob_flutter" >
@@ -43,7 +43,7 @@ A plugin for flutter to help you implement admob easily on your mobile app. It s
 It's easy for new devs and complete for the advanced ones.\
 For more information, head over to the [documentation](https://github.com/bdlukaa/native_admob_flutter/wiki)
 
-### Color picker app
+### [Color picker app](https://github.com/bdlukaa/color-picker)
 
 <p align="center" >
   <a title="Github License">
@@ -57,7 +57,7 @@ For more information, head over to the [documentation](https://github.com/bdluka
 A color picker app to help you to find the color that best fit your design.\
 Head over to [the project](https://github.com/bdlukaa/color-picker) for a brief showcase... or not that brief
 
-### Unities Helper
+### [Unities Helper](https://github.com/bdlukaa/unities_helper)
 
 <p align="center" >
   <a title="Pub" href="https://pub.dartlang.org/packages/unities_helper" >
