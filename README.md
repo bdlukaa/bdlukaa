@@ -95,7 +95,7 @@ Fore more information, head over to [pub.dev](https://pub.dev/packages/unities_h
 
 <p align="center" >
   <a title="Github License">
-    <img src="https://img.shields.io/github/license/bdlukaa/color_picker" />
+    <img src="https://img.shields.io/github/license/bdlukaa/chart_builder" />
   </a>
   <a title="PRs are welcome">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
