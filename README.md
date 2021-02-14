@@ -90,3 +90,20 @@ So, are you struggling to convert unities? Yeah, me neither, but if want, check 
 - [x] [Volume](https://github.com/bdlukaa/unities_helper#volume)
 
 Fore more information, head over to [pub.dev](https://pub.dev/packages/unities_helper)
+
+### [Chart Builder](https://github.com/bdlukaa/chart_builder)
+
+<p align="center" >
+  <a title="Github License">
+    <img src="https://img.shields.io/github/license/bdlukaa/color_picker" />
+  </a>
+  <a title="PRs are welcome">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+  </a>
+<div>
+
+If you ever need to create a chart quickly, [Chart Builder](https://github.com/bdlukaa/chart_builder) is the way to go. It currently (13/02/2021) supports the following charts:
+
+| Line Chart | Bar Chart | Pie Chart | Scatter Chart |
+| :--------: | :-------: | :-------: | :-----------: |
+|     ❌     |    ❌     |    ✔️     |      ❌       |
