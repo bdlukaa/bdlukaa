@@ -31,7 +31,12 @@
   <a title="PRs are welcome">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
   </a>
-<div>
+</p>
+<p align="center" >
+  <a href="https://github.com/bdlukaa/native_admob_flutter" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=native_admob_flutter" />
+  </a>
+</p>
 
 A plugin for flutter to help you implement admob easily on your mobile app. It supports all the ad formats provided by the admob sdk:
 
@@ -54,6 +59,11 @@ For more information, head over to the [documentation](https://github.com/bdluka
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
   </a>
 <div>
+<p align="center" >
+  <a href="https://github.com/bdlukaa/color-picker" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=color-picker" />
+  </a>
+</p>
 
 A color picker app to help you to find the color that best fit your design.\
 Head over to [the project](https://github.com/bdlukaa/color-picker) for a brief showcase... or not that brief
@@ -71,6 +81,11 @@ Head over to [the project](https://github.com/bdlukaa/color-picker) for a brief 
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
   </a>
 <div>
+<p align="center" >
+  <a href="https://github.com/bdlukaa/unities_helper" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=unities_helper" />
+  </a>
+</p>
 
 So, are you struggling to convert unities? Yeah, me neither, but if want, check out [unities_helper](https://github.com/bdlukaa/unities_helper). It has a simple syntax and it's very complete package, allowing you to do the following conversions:
 
@@ -101,7 +116,12 @@ Fore more information, head over to [pub.dev](https://pub.dev/packages/unities_h
   <a title="PRs are welcome">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
   </a>
-<div>
+<p>
+<p align="center" >
+  <a href="https://github.com/bdlukaa/chart_builder" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=chart_builder" />
+  </a>
+</p>
 
 If you ever need to create a chart quickly, [Chart Builder](https://github.com/bdlukaa/chart_builder) is the way to go. It currently (13/02/2021) supports the following charts:
 
