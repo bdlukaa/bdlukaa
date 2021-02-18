@@ -34,7 +34,7 @@
 </p>
 <p align="center" >
   <a href="https://github.com/bdlukaa/native_admob_flutter" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=native_admob_flutter" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=native_admob_flutter&show_icons=true&theme=dark" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@ For more information, head over to the [documentation](https://github.com/bdluka
 <div>
 <p align="center" >
   <a href="https://github.com/bdlukaa/color-picker" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=color-picker" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=color-picker&show_icons=true&theme=dark" />
   </a>
 </p>
 
@@ -83,7 +83,7 @@ Head over to [the project](https://github.com/bdlukaa/color-picker) for a brief 
 <div>
 <p align="center" >
   <a href="https://github.com/bdlukaa/unities_helper" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=unities_helper" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=unities_helper&show_icons=true&theme=dark" />
   </a>
 </p>
 
@@ -119,7 +119,7 @@ Fore more information, head over to [pub.dev](https://pub.dev/packages/unities_h
 <p>
 <p align="center" >
   <a href="https://github.com/bdlukaa/chart_builder" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=chart_builder" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=chart_builder&show_icons=true&theme=dark" />
   </a>
 </p>
 
