@@ -89,23 +89,42 @@ Head over to [the project](https://github.com/bdlukaa/color-picker) for a brief 
 
 So, are you struggling to convert unities? Yeah, me neither, but if want, check out [unities_helper](https://github.com/bdlukaa/unities_helper). It has a simple syntax and it's very complete package, allowing you to do the following conversions:
 
-- [x] [Area](https://github.com/bdlukaa/unities_helper#area)
-- [x] [Color Spaces](https://github.com/bdlukaa/unities_helper#color-spaces)
-- [x] [Data transfer rate](https://github.com/bdlukaa/unities_helper#data-transfer-rate)
-- [x] [Digital Storage](https://github.com/bdlukaa/unities_helper#digital-storage)
-- [x] [Energy](https://github.com/bdlukaa/unities_helper#energy)
-- [x] [Frequency](https://github.com/bdlukaa/unities_helper#frequency)
-- [x] [Fuel Economy](https://github.com/bdlukaa/unities_helper#fuel-economy)
-- [x] [Length](https://github.com/bdlukaa/unities_helper#length)
-- [x] [Mass](https://github.com/bdlukaa/unities_helper#mass)
-- [x] [Plane angle °](https://github.com/bdlukaa/unities_helper#plane-angle)
-- [x] [Pressure](https://github.com/bdlukaa/unities_helper#pressure)
-- [x] [Speed](https://github.com/bdlukaa/unities_helper#speed)
-- [x] [Temperature](https://github.com/bdlukaa/unities_helper#temperature)
-- [x] [Time](https://github.com/bdlukaa/unities_helper#time)
-- [x] [Volume](https://github.com/bdlukaa/unities_helper#volume)
+| ✔️ | ✔️ | ✔️ |
+| - | - | - |
+| [Area](https://github.com/bdlukaa/unities_helper#area) | [Color Spaces](https://github.com/bdlukaa/unities_helper#color-spaces) | [Data transfer rate](https://github.com/bdlukaa/unities_helper#data-transfer-rate) |
+| [Digital Storage](https://github.com/bdlukaa/unities_helper#digital-storage) | [Energy](https://github.com/bdlukaa/unities_helper#energy) | [Frequency](https://github.com/bdlukaa/unities_helper#frequency) |
+| [Fuel Economy](https://github.com/bdlukaa/unities_helper#fuel-economy) | [Length](https://github.com/bdlukaa/unities_helper#length) | [Mass](https://github.com/bdlukaa/unities_helper#mass) |
+| [Plane angle °](https://github.com/bdlukaa/unities_helper#plane-angle) | [Pressure](https://github.com/bdlukaa/unities_helper#pressure) | [Speed](https://github.com/bdlukaa/unities_helper#speed) |
+| [Temperature](https://github.com/bdlukaa/unities_helper#temperature) | [Time](https://github.com/bdlukaa/unities_helper#time) | [Volume](https://github.com/bdlukaa/unities_helper#volume) |
 
 Fore more information, head over to [pub.dev](https://pub.dev/packages/unities_helper)
+
+### [fl_toast](https://pub.dev/packages/fl_toast)
+
+<p align="center" >
+  <a title="Pub" href="https://pub.dartlang.org/packages/fl_toast" >
+    <img src="https://img.shields.io/pub/v/fl_toast.svg?style=popout&include_prereleases" />
+  </a>
+  <a title="Github License">
+    <img src="https://img.shields.io/github/license/bdlukaa/fl_toast" />
+  </a>
+  <a title="PRs are welcome">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+  </a>
+<div>
+<p align="center" >
+  <a href="https://github.com/bdlukaa/fl_toast" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=fl_toast&show_icons=true&theme=dark" />
+  </a>
+</p>
+
+A simple yet powerful Toast Library for Flutter. Create beautiful toasts easily
+
+✔️ Easy-to-use - Made for new and advanced developers\
+✔️ Animations - Supports any kind of animation\
+✔️ Made Fully in flutter - No need to use platform channels to show toasts
+
+Check it out on [pub.dev](https://pub.dev/packages/fl_toast)
 
 ### [Chart Builder](https://github.com/bdlukaa/chart_builder)
 
