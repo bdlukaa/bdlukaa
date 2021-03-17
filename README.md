@@ -19,6 +19,27 @@
 
 ## Some of my projects:
 
+### [Fluent UI](https://github.com/bdlukaa/fluent_ui)
+
+<p align="center" >
+  <a title="Pub" href="https://pub.dartlang.org/packages/fluent_ui" >
+    <img src="https://img.shields.io/pub/v/fluent_ui.svg?style=popout&include_prereleases" />
+  </a>
+  <a title="Github License">
+    <img src="https://img.shields.io/github/license/bdlukaa/fluent_ui" />
+  </a>
+  <a title="PRs are welcome">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+  </a>
+</p>
+<p align="center" >
+  <a href="https://github.com/bdlukaa/fluent_ui" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=fluent_ui&show_icons=true&theme=dark" />
+  </a>
+</p>
+
+A package to implement Microsoft's Fluent UI in flutter. Head over to [pub.dev](https://pub.dartlang.org/packages/fluent_ui) to learn more
+
 ### [native_admob_flutter](https://github.com/bdlukaa/native_admob_flutter)
 
 <p align="center" >
@@ -45,30 +66,10 @@ A plugin for flutter to help you implement admob easily on your mobile app. It s
 - [x] Interstitial
 - [x] Native
 - [x] Rewarded
+- [x] Rewarded Interstitial
 
 It's easy for new devs and complete for the advanced ones.\
-For more information, head over to the [documentation](https://github.com/bdlukaa/native_admob_flutter/wiki)
-
-### [Fluent UI](https://github.com/bdlukaa/fluent_ui)
-
-<p align="center" >
-  <a title="Pub" href="https://pub.dartlang.org/packages/fluent_ui" >
-    <img src="https://img.shields.io/pub/v/fluent_ui.svg?style=popout&include_prereleases" />
-  </a>
-  <a title="Github License">
-    <img src="https://img.shields.io/github/license/bdlukaa/fluent_ui" />
-  </a>
-  <a title="PRs are welcome">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
-  </a>
-</p>
-<p align="center" >
-  <a href="https://github.com/bdlukaa/fluent_ui" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdlukaa&repo=fluent_ui&show_icons=true&theme=dark" />
-  </a>
-</p>
-
-A package to implement Microsoft's Fluent UI in flutter. Head over to [pub.dev](https://pub.dartlang.org/packages/fluent_ui) to learn more 
+For more information, head over to the [documentation](https://github.com/bdlukaa/native_admob_flutter/wiki) 
 
 ### [Color picker app](https://github.com/bdlukaa/color-picker)
 
