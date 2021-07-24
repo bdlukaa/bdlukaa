@@ -9,11 +9,9 @@
    - <a title="Twitter" href="https://twitter.com/bdlukaadev">
        <img src="https://img.shields.io/badge/twitter-bdlukaadev-blue?style=flat-square&color=7A7574&labelColor=0078D7">
      </a>
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His 🌈
 - 📌 Based on Brazil :brazil:
 - ⚡ Fun fact: I can speak 3 languages, but I'm bad at all of them
-
-Valorant player
 
 <p align="center">
   <a title="Buy me a coffee" href="https://www.buymeacoffee.com/bdlukaa">
