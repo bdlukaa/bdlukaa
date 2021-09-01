@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning basic math, ooh..., I mean, [flutter](https://flutter.dev)
+- 🌱 I’m currently learning basic math, ooh..., I mean, [Unity](https://unity.com/)
 - 💬 Ask me about anything. I won't know the answer anyway
 - 📫 How to reach me:
    - <a title="Discord" href="https://discord.gg/674gpDQUVq">
