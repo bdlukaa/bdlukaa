@@ -13,16 +13,6 @@
 - 📌 Based on Brazil :brazil:
 - ⚡ Fun fact: I can speak 3 languages, but I'm bad at all of them
 
-<p align="center">
-  <a title="Buy me a coffee" href="https://www.buymeacoffee.com/bdlukaa">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bdlukaa&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00">
-  </a>
-</p>
-
-<p align="center">
-   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdlukaa&theme=dark&layout=compact" />
-</p>
-
-<p align="center">
-   <img width="75%" src="https://github-readme-stats.vercel.app/api?username=bdlukaa&show_icons=true&theme=dark" />
-</p>
+<div align="center">
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdlukaa&theme=dark&layout=compact" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bdlukaa&show_icons=true&theme=dark" />
+</div>
