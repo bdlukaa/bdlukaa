@@ -9,7 +9,7 @@
      
 - 😄 Pronouns: he/him 🌈
 - 📌 Brazil :brazil:
-- ⚡ Fun fact: I can speak 3 languages, but I'm bad at all of them
+- ⚡ Fun fact: I can speak 4 languages, but I'm bad at all of them
 
 <div align="center">
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdlukaa&theme=dark&layout=compact" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bdlukaa&show_icons=true&theme=dark" />
