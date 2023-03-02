@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<a title="Discord" href="https://discord.gg/674gpDQUVq">
-       <img src="https://img.shields.io/discord/809528329337962516?label=discord&logo=discord" />
-     </a>
-<a title="Twitter" href="https://twitter.com/bdlukaadev">
-       <img src="https://img.shields.io/badge/twitter-bdlukaadev-blue?style=flat-square&color=7A7574&labelColor=0078D7">
-     </a>
-     
-- 😄 Pronouns: he/him 🌈
-- 📌 Brazil :brazil:
-- ⚡ Fun fact: I can speak 4 languages, but I'm bad at all of them
+I'm **Bruno**, but you can also call me D'Luka (pronounced _di luka_);<br>
+currently majoring in Computer Science;<br>
+I do Flutter and stuff (see *Pinned*);<br>
+pronouns: he/him🌈;<br>
+Brazilian :brazil:;<br>
+fun fact: I can speak 4 languages, but I'm bad at all of them.
+
+---
 
 <div align="center">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdlukaa&theme=dark&layout=compact" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bdlukaa&show_icons=true&theme=dark" />
+       <a title="Discord" href="https://discord.gg/674gpDQUVq">
+       <img width="14%" src="https://img.shields.io/discord/809528329337962516?label=discord&logo=discord" /> </a> <a title="Twitter" href="https://twitter.com/bdlukaadev"> <img width="13%" src="https://img.shields.io/badge/twitter-bdlukaadev-blue?style=flat-square&color=7A7574&labelColor=0078D7" /> </a>
+</div>
+<div align="center">
+   <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdlukaa&theme=dark&layout=compact" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bdlukaa&show_icons=true&theme=dark" />
 </div>
