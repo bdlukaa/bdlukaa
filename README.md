@@ -5,7 +5,7 @@ currently majoring in Computer Science;<br>
 I do Flutter and stuff (see *Pinned*);<br>
 pronouns: he/him🌈;<br>
 Brazilian :brazil:;<br>
-fun fact: I can speak 4 languages, but I'm bad at all of them.
+fun fact: I can speak 4 languages (_pt_, _en_, _es_, _ko_), but I'm bad at all of them.
 
 ---
 
