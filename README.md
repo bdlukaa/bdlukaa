@@ -2,7 +2,7 @@
 
 I'm **Bruno**, but you can also call me D'Luka (pronounced _di luka_);<br>
 currently majoring in Computer Science;<br>
-I do Flutter and stuff (see *Pinned*);<br>
+I do Flutter and stuff; currently learning React Native and Unity (see *Pinned*);<br>
 pronouns: he/him🌈;<br>
 Brazilian :brazil:;<br>
 fun fact: I can speak 4 languages (_pt_, _en_, _es_, _ko_), but I'm bad at all of them.
